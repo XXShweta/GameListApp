@@ -3,8 +3,8 @@ A mobile application utilizing a gaming API to present a collection of games dev
 # API Detail 
 GET https://www.freetogame.com/api/games
 # Libraries used in the project 
-Retrofit 
-Hilt 
-Landscapist-Glide 
-ViewModel 
+Retrofit  
+Hilt  
+Landscapist-Glide  
+ViewModel  
 
